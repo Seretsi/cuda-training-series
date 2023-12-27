@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hw1", "hw1.vcxproj", "{98ADF72A-F0A4-4093-BA68-86246E3F1CDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello", "..\Hello\Hello.vcxproj", "{A8E70692-1F48-4ED6-BE3F-2F79049CD75A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAdd", "..\MatMult\MatMult.vcxproj", "{6B5EF4C2-C8C4-413B-B3F0-A352956343A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matmul", "..\matmul\matmul.vcxproj", "{7AF66E23-92DE-41C1-BD5F-477F1CDCD441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98ADF72A-F0A4-4093-BA68-86246E3F1CDD}.Debug|x64.ActiveCfg = Debug|x64
+		{98ADF72A-F0A4-4093-BA68-86246E3F1CDD}.Debug|x64.Build.0 = Debug|x64
+		{98ADF72A-F0A4-4093-BA68-86246E3F1CDD}.Release|x64.ActiveCfg = Release|x64
+		{98ADF72A-F0A4-4093-BA68-86246E3F1CDD}.Release|x64.Build.0 = Release|x64
+		{A8E70692-1F48-4ED6-BE3F-2F79049CD75A}.Debug|x64.ActiveCfg = Debug|x64
+		{A8E70692-1F48-4ED6-BE3F-2F79049CD75A}.Debug|x64.Build.0 = Debug|x64
+		{A8E70692-1F48-4ED6-BE3F-2F79049CD75A}.Release|x64.ActiveCfg = Release|x64
+		{A8E70692-1F48-4ED6-BE3F-2F79049CD75A}.Release|x64.Build.0 = Release|x64
+		{6B5EF4C2-C8C4-413B-B3F0-A352956343A1}.Debug|x64.ActiveCfg = Debug|x64
+		{6B5EF4C2-C8C4-413B-B3F0-A352956343A1}.Debug|x64.Build.0 = Debug|x64
+		{6B5EF4C2-C8C4-413B-B3F0-A352956343A1}.Release|x64.ActiveCfg = Release|x64
+		{6B5EF4C2-C8C4-413B-B3F0-A352956343A1}.Release|x64.Build.0 = Release|x64
+		{7AF66E23-92DE-41C1-BD5F-477F1CDCD441}.Debug|x64.ActiveCfg = Debug|x64
+		{7AF66E23-92DE-41C1-BD5F-477F1CDCD441}.Debug|x64.Build.0 = Debug|x64
+		{7AF66E23-92DE-41C1-BD5F-477F1CDCD441}.Release|x64.ActiveCfg = Release|x64
+		{7AF66E23-92DE-41C1-BD5F-477F1CDCD441}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F48B02-CB8B-41A7-B69F-EC32E8E23E7F}
+	EndGlobalSection
+EndGlobal
